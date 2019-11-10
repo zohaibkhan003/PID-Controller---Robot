@@ -1,0 +1,3 @@
+# PID-Controller---Robot
+
+ With the emergence of robotics in the market, engineers sought to automate these robots to increase the accuracy of their task. Due to real life parameters and software, the system can vary different results compared to the desired results. Last lab, we worked on an open loop system where the Turtlebot follows a square trajectory. This lab, the Turtle will follow the same pattern, however this time will be in a closed loop where a PID controller will be implemented to increase the accuracy of the desired results and compensate for the real life parameters that affect the system. Moreover, this report will compare and contrast the performance of an open loop system vs a closed loop system. 
